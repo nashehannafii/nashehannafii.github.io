@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m **Youran (Echo) Zhou**, a data scientist and researcher specializing in missing data, generative modeling, and applied machine learning.  
+I design robust tools and methods to improve data quality and analysis in real-world environments, with applications across health, insurance, and finance.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+With over five years of experience in machine learning, data analytics, and AI education, I actively contribute as a **lecturer, tutor, and mentor**—helping bridge technical insight with accessible learning.  
+I'm especially passionate about building open tools, guiding future data scientists, and translating advanced methods into impactful solutions.
+
+Currently, I am completing my PhD in Data Science at Deakin University, where I focus on developing advanced techniques for missing data imputation, diagnostics, and simulation.
