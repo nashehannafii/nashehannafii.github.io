@@ -2,16 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Data Scientist | Educator | Researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,17 +20,17 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## About me
 
-I’m **Youran (Echo) Zhou**, a data scientist and researcher specializing in missing data, generative modeling, and applied machine learning.  
-I design robust tools and methods to improve data quality and analysis in real-world environments, with applications across health, insurance, and finance.
+I’m **Youran (Echo) Zhou**, a data scientist, educator, and researcher specializing in **missing data**, **generative modeling**, and **applied machine learning**. My work focuses on developing robust tools and methods to improve data quality and enable reliable analysis across real-world domains such as healthcare, insurance, and finance.
 
-With over five years of experience in machine learning, data analytics, and AI education, I actively contribute as a **lecturer, tutor, and mentor**—helping bridge technical insight with accessible learning.  
-I'm especially passionate about building open tools, guiding future data scientists, and translating advanced methods into impactful solutions.
+With over five years of teaching and mentoring experience in data science, AI, and analytics, I am passionate about making complex methods accessible to diverse learners. I have taught and supported students from undergraduate to postgraduate levels and actively contribute as a lecturer, tutor, and academic mentor My goal is to empower future data scientists through practical, inclusive, and research-informed learning experiences.
 
-Currently, I am completing my PhD in Data Science at Deakin University, where I focus on developing advanced techniques for missing data imputation, diagnostics, and simulation.
+As a researcher, I develop open-source solutions for handling incomplete data, including simulation, visualization, and imputation evaluation. My work bridges theory and practice, supporting both academic research and real-world data science applications.
+
+Currently, I am completing my PhD in Data Science at Deakin University, focusing on advancing methods for missing data imputation, diagnostics, and simulation. I am excited to continue contributing to **teaching**, **research**, and **industry collaboration** in data science and AI.
+
