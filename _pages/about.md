@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Data Scientist | Educator | Researcher
+subtitle: Digital Twin | Machine Learning | Researcher
 
 profile:
   align: right
