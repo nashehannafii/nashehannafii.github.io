@@ -67,7 +67,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: assets/img/prof_pic.jpg
+og_image: assets/img/profile_pic.jpg
 # The site-wide (default for all links) Open Graph preview image
 
 
@@ -267,8 +267,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Zhou]
-  first_name: [Youran]
+  last_name: [Annafii]
+  first_name: [Nasheh]
 
   style: apa
   locale: en

@@ -7,7 +7,7 @@ subtitle: Data Scientist | Educator | Researcher
 profile:
   align: right
   image: avatar.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
 
 
@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 
-I’m **Youran (Echo) Zhou**, a data scientist, educator, and researcher specializing in **missing data**, **generative modeling**, and **applied machine learning**. My work focuses on developing robust tools and methods to improve data quality and enable reliable analysis across real-world domains such as healthcare, insurance, and finance.
+I’m **Nasheh Annafii**, a data scientist, educator, and researcher specializing in **missing data**, **generative modeling**, and **applied machine learning**. My work focuses on developing robust tools and methods to improve data quality and enable reliable analysis across real-world domains such as healthcare, insurance, and finance.
 
 With over five years of teaching and mentoring experience in data science, AI, and analytics, I am passionate about making complex methods accessible to diverse learners. I have taught and supported students from undergraduate to postgraduate levels and actively contribute as a lecturer, tutor, and academic mentor My goal is to empower future data scientists through practical, inclusive, and research-informed learning experiences.
 
