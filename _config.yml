@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Youran
-middle_name: Echo
-last_name: Zhou
+first_name: Moch.
+middle_name: Nasheh
+last_name: Annafii
 contact_note: > 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Portfolio of Youran Echo Zhou, PhD candidate at Deakin University in Melbourne, AU.
+  Portfolio of Moch. Nasheh Annafii, Master candidate at University in Yogyakarta, ID.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -18,8 +18,8 @@ keywords: >
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: "https://echoid.github.io"
-baseurl: ""  # 一定要留空，不能删掉
+url: "https://nashehannafii.github.io"
+baseurl: ""
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
