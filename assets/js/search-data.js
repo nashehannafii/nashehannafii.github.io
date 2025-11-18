@@ -425,7 +425,7 @@ ninja.data = [{
           title: 'MissMecha',
           description: "A Python package for missing data mechanism simulation and analysis.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/missmecha/";
+              window.location.href = "/projects/example/missmecha/";
             },},{
         id: 'social-email',
         title: 'email',
