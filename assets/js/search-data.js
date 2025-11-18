@@ -431,28 +431,35 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%65%63%68%6F.%7A%68%6F%75@%64%65%61%6B%69%6E.%65%64%75.%61%75", "_blank");
+          window.open("mailto:%6E%61%73%68%65%68%61%6E%6E%61%66%69%69@%75%6E%69%64%61.%67%6F%6E%74%6F%72.%61%63.%69%64", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/echoid", "_blank");
+          window.open("https://github.com/nashehannafii", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/youran-zhou", "_blank");
+          window.open("https://www.linkedin.com/in/nashehannafii", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0003-1138-4054", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=W2xw3cQAAAAJ&hl", "_blank");
+          window.open("https://scholar.google.com/citations?user=D2WqoAAAAJ&hl", "_blank");
         },
       },{
       id: 'light-theme',
