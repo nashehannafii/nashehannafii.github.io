@@ -7,13 +7,15 @@ nav: true
 nav_order: 3
 ---
 
-### Courses Taught
+### Teaching Experience
+
+**Universitas Darussalam Gontor**
 
 - **Dasar-dasar Pemrograman**  
-  Instructor, Multiple Semesters
+  Lecturer, Multiple Semesters
 
 - **Pengantar Informatika**  
-  Instructor, Multiple Semesters
+  Lecturer, Multiple Semesters
 
 - **Statistika**  
-  Instructor, Multiple Semesters
+  Lecturer, Multiple Semesters
