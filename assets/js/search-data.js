@@ -405,7 +405,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-intersect-australia-as-a-research-data-scientist-intern",
+            },},{id: "news-presented-at-2022-international-conference-on-computer-engineering-network-and-intelligent-multimedia-cenim-with-paper-semantic-segmentation-of-rice-leaf-blast-disease-using-optimized-u-net",
+          title: 'Presented at 2022 International Conference on Computer Engineering, Network, and Intelligent Multimedia (CENIM)...',
+          description: "",
+          section: "News",},{id: "news-presented-at-prosiding-sains-nasional-dan-teknologi-unwahas-with-paper-segmentasi-semantik-pada-citra-hama-leafblast-menggunakan-unet-dan-optimasi-hyperband",
+          title: 'Presented at Prosiding Sains Nasional dan Teknologi (Unwahas) with paper: “Segmentasi Semantik pada...',
+          description: "",
+          section: "News",},{id: "news-joined-intersect-australia-as-a-research-data-scientist-intern",
           title: 'Joined Intersect Australia as a Research Data Scientist Intern!',
           description: "",
           section: "News",},{id: "news-selected-as-a-finalist-for-the-2024-visualise-your-thesis-vyt-competition-at-deakin-university",
