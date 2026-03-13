@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Overview of my teaching experience.
+description: University teaching experience at Universitas Darussalam Gontor — courses in programming, informatics, and statistics.
 nav: true
 nav_order: 3
 ---
