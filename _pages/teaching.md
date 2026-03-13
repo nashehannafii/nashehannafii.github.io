@@ -2,20 +2,18 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: University teaching experience at Universitas Darussalam Gontor — courses in programming, informatics, and statistics.
+description: Teaching positions at Universitas Darussalam Gontor — courses in programming, informatics, and statistics.
 nav: true
 nav_order: 3
 ---
 
-### Teaching Experience
+### Universitas Darussalam Gontor
 
-**Universitas Darussalam Gontor**
-
-- **Dasar-dasar Pemrograman**  
+- **Basics of Programming**  
   Lecturer, Multiple Semesters
 
-- **Pengantar Informatika**  
+- **Introduction to Informatics**  
   Lecturer, Multiple Semesters
 
-- **Statistika**  
+- **Statistics**  
   Lecturer, Multiple Semesters
