@@ -27,10 +27,8 @@ latest_posts:
 
 
 
-I'm **Moch. Nasheh Annafii**, an informatics, researcher, and system developer with interests in **digital twin technology**, **artificial intelligence**, and **machine learning**. My work explores how structured data pipelines, computational modeling, and intelligent analysis can improve the reliability and scalability of digital systems across various domains.
+I'm **Moch. Nasheh Annafii**, a PhD candidate in Informatics, researcher, and system developer focused on **Digital Twin**, **machine learning**, and **computer vision**. My work bridges computational modeling, data pipelines, and intelligent systems to solve real-world problems.
 
-I have practical experience in designing and developing digital solutions across web and mobile environments, integrating cloud-based storage, automated document processing, and data-driven workflows. My applied projects include financial record systems, organizational information platforms, and mobile applications that support efficient digital operations.
+With a master's from UAD and bachelor's from UNIDA, I combine academic rigor with practical development experience—building web/mobile applications, cloud integrations, and data-driven workflows.
 
-With an academic background in Informatics at both the undergraduate and postgraduate levels, my research spans geometric and physical modeling, machine-learning-driven analysis, computer-vision-based data extraction, data integration architectures, and the broader development of Digital Twin concepts that incorporate physical, virtual, data, connection, and service dimensions.
-
-I continue expanding my work in data-driven modeling, intelligent systems, and digital technologies, contributing to both research and real-world implementation in computational informatics.
+Currently, I contribute to research and projects that advance AI-driven modeling and digital twin technologies.
