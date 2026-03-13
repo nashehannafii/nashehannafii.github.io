@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Digital Twin | Machine Learning | Researcher
+subtitle: Digital Twin | Machine Learning | Artificial Intelligence | Researcher
 
 profile:
   align: right
