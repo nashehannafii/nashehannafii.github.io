@@ -411,23 +411,7 @@ ninja.data = [{
           section: "News",},{id: "news-presented-at-prosiding-sains-nasional-dan-teknologi-unwahas-with-paper-segmentasi-semantik-pada-citra-hama-leafblast-menggunakan-unet-dan-optimasi-hyperband",
           title: 'Presented at Prosiding Sains Nasional dan Teknologi (Unwahas) with paper: “Segmentasi Semantik pada...',
           description: "",
-          section: "News",},{id: "news-joined-intersect-australia-as-a-research-data-scientist-intern",
-          title: 'Joined Intersect Australia as a Research Data Scientist Intern!',
-          description: "",
-          section: "News",},{id: "news-selected-as-a-finalist-for-the-2024-visualise-your-thesis-vyt-competition-at-deakin-university",
-          title: 'Selected as a finalist for the 2024 Visualise Your Thesis (VYT) competition at...',
-          description: "",
-          section: "News",},{id: "news-guest-lecture-deakin-university-on-methods-for-handling-missing-data",
-          title: 'Guest Lecture @ Deakin University on Methods for Handling Missing Data',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/24-12-26-guestlec/";
-            },},{id: "news-missmecha-python-package-official-release",
-          title: 'MissMecha Python Package Official Release!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/25-05-01-missmecha/";
-            },},{id: "projects-missmecha",
+          section: "News",},{id: "projects-missmecha",
           title: 'MissMecha',
           description: "A Python package for missing data mechanism simulation and analysis.",
           section: "Projects",handler: () => {
