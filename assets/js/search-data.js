@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "University teaching experience at Universitas Darussalam Gontor — courses in programming, informatics, and statistics.",
+          description: "Teaching positions at Universitas Darussalam Gontor — courses in programming, informatics, and statistics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
