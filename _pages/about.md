@@ -27,7 +27,7 @@ latest_posts:
 
 
 
-I'm **Moch. Nasheh Annafii**, a PhD candidate in Informatics, researcher, and system developer focused on **Digital Twin**, **machine learning**, and **computer vision**. My research develops human digital twin frameworks—integrating geometric modeling, physical simulation, and data-driven AI—with applications in healthcare monitoring and decision support. I also engineer vision-based systems for real-world problems, such as agricultural disease detection using optimized deep learning models.
+I'm **Moch. Nasheh Annafii**, a PhD candidate in Informatics, researcher, and system developer focused on **Digital Twin**, **machine learning**, and **computer vision**. My research develops human digital twin frameworks—integrating geometric modeling, physical simulation, and data-driven AI—with applications in healthcare monitoring and system intelligence. I also engineer vision-based systems for real-world problems, such as agricultural disease detection using optimized deep learning models.
 
 With a master's from UAD and bachelor's from UNIDA, I combine academic rigor with practical development experience—building web/mobile applications, cloud integrations, and data-driven workflows.
 
