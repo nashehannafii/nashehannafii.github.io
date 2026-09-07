@@ -17,3 +17,12 @@ nav_order: 3
 
 - **Statistics**  
   Lecturer, Multiple Semesters
+
+- **Algoritma dan Struktur Data**  
+  Lecturer, Multiple Semesters
+
+- **Metode Numerik**  
+  Lecturer, Multiple Semesters
+
+- **Pemrograman Web Lanjut**  
+  Lecturer, Multiple Semesters
