@@ -15,6 +15,13 @@
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
       {{ footer_contents }}
+      {% if site.enable_visitor_counter %}
+        <span class="visitor-counter small text-muted ms-2">
+          <i class="fa-solid fa-eye"></i>
+          <span id="vercount_value_page_pv">--</span> views · <span id="vercount_value_site_uv">--</span> visitors
+          <span id="busuanzi_value_site_pv" style="display: none"></span><span id="busuanzi_value_site_uv" style="display: none"></span>
+        </span>
+      {% endif %}
     </div>
   </footer>
 {% else %}
@@ -25,6 +32,17 @@
 
     <div class="container">
       {{ footer_contents }}
+      {% if site.enable_visitor_counter %}
+        <div class="visitor-counter small text-muted mt-1">
+          <i class="fa-solid fa-eye"></i>
+          <span id="vercount_value_page_pv">--</span> views · <span id="vercount_value_site_uv">--</span> visitors
+          <span id="busuanzi_value_site_pv" style="display: none"></span><span id="busuanzi_value_site_uv" style="display: none"></span>
+        </div>
+      {% endif %}
     </div>
   </footer>
+{% endif %}
+{% if site.enable_visitor_counter %}
+  <script defer src="https://cn.vercount.one/js"></script>
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 {% endif %}
