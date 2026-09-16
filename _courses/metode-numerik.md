@@ -3,8 +3,7 @@ layout: page
 title: Metode Numerik
 description: Solusi numerik persamaan, interpolasi, diferensiasi–integrasi numerik, dan galat komputasi.
 icon: fa-calculator
-semester: Multiple Semesters
-lang: Indonesia
+tags: [advance, math]
 importance: 5
 ---
 

@@ -3,8 +3,7 @@ layout: page
 title: Introduction to Informatics
 description: Overview of informatics — computing systems, data representation, networks, and societal impact.
 icon: fa-computer
-semester: Multiple Semesters
-lang: English / Indonesia
+tags: [fundamental, concept]
 importance: 2
 ---
 

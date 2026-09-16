@@ -3,8 +3,7 @@ layout: page
 title: Pemrograman Web Lanjut
 description: Pengembangan web modern — framework, API, autentikasi, database, dan deployment.
 icon: fa-globe
-semester: Multiple Semesters
-lang: Indonesia
+tags: [advance, programming]
 importance: 6
 ---
 

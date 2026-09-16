@@ -3,8 +3,7 @@ layout: page
 title: Statistics
 description: Descriptive and inferential statistics — probability, distributions, hypothesis testing, and regression.
 icon: fa-chart-bar
-semester: Multiple Semesters
-lang: English / Indonesia
+tags: [fundamental, math]
 importance: 3
 ---
 

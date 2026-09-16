@@ -3,8 +3,7 @@ layout: page
 title: Basics of Programming
 description: Fundamental programming concepts — variables, control flow, functions, and problem solving with code.
 icon: fa-code
-semester: Multiple Semesters
-lang: English / Indonesia
+tags: [fundamental, programming]
 importance: 1
 ---
 

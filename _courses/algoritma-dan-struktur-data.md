@@ -3,8 +3,7 @@ layout: page
 title: Algoritma dan Struktur Data
 description: Analisis algoritma, rekursi, sorting–searching, serta struktur data linear dan nonlinear.
 icon: fa-diagram-project
-semester: Multiple Semesters
-lang: Indonesia
+tags: [advance, programming]
 importance: 4
 ---
 
