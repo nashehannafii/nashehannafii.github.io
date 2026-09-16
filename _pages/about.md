@@ -10,7 +10,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
 
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -24,8 +23,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-
 
 I'm **Moch. Nasheh Annafii**, a PhD candidate in Informatics, researcher, and system developer focused on **Digital Twin**, **machine learning**, and **computer vision**. My research develops human digital twin frameworks—integrating geometric modeling, physical simulation, and data-driven AI—with applications in healthcare monitoring and system intelligence. I also engineer vision-based systems for real-world problems, such as agricultural disease detection using optimized deep learning models.
 

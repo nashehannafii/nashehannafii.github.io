@@ -43,5 +43,3 @@ MissMecha is available on [PyPI](https://pypi.org/project/missmecha-py) and full
           allowfullscreen>
   </iframe>
 </div>
-
-
