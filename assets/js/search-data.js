@@ -405,6 +405,36 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "courses-algoritma-dan-struktur-data",
+          title: 'Algoritma dan Struktur Data',
+          description: "Analisis algoritma, rekursi, sorting–searching, serta struktur data linear dan nonlinear.",
+          section: "Courses",handler: () => {
+              window.location.href = "/teaching/algoritma-dan-struktur-data/";
+            },},{id: "courses-basics-of-programming",
+          title: 'Basics of Programming',
+          description: "Fundamental programming concepts — variables, control flow, functions, and problem solving with code.",
+          section: "Courses",handler: () => {
+              window.location.href = "/teaching/basics-of-programming/";
+            },},{id: "courses-introduction-to-informatics",
+          title: 'Introduction to Informatics',
+          description: "Overview of informatics — computing systems, data representation, networks, and societal impact.",
+          section: "Courses",handler: () => {
+              window.location.href = "/teaching/introduction-to-informatics/";
+            },},{id: "courses-metode-numerik",
+          title: 'Metode Numerik',
+          description: "Solusi numerik persamaan, interpolasi, diferensiasi–integrasi numerik, dan galat komputasi.",
+          section: "Courses",handler: () => {
+              window.location.href = "/teaching/metode-numerik/";
+            },},{id: "courses-pemrograman-web-lanjut",
+          title: 'Pemrograman Web Lanjut',
+          description: "Pengembangan web modern — framework, API, autentikasi, database, dan deployment.",
+          section: "Courses",handler: () => {
+              window.location.href = "/teaching/pemrograman-web-lanjut/";
+            },},{id: "courses-statistics",
+          title: 'Statistics',
+          description: "Descriptive and inferential statistics — probability, distributions, hypothesis testing, and regression.",
+          section: "Courses",handler: () => {
+              window.location.href = "/teaching/statistics/";
             },},{id: "news-presented-at-2022-international-conference-on-computer-engineering-network-and-intelligent-multimedia-cenim-with-paper-semantic-segmentation-of-rice-leaf-blast-disease-using-optimized-u-net",
           title: 'Presented at 2022 International Conference on Computer Engineering, Network, and Intelligent Multimedia (CENIM)...',
           description: "",
