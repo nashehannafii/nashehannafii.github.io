@@ -1,0 +1,24 @@
+<div class="col">
+  <a href="{{ course.url | relative_url }}">
+    <div class="card h-100 hoverable">
+      <div class="card-body">
+        <div class="mb-2" style="font-size: 1.8rem; color: var(--global-theme-color);">
+          <i class="fa-solid {{ course.icon | default: 'fa-book-open' }}"></i>
+        </div>
+        <h2 class="card-title">{{ course.title }}</h2>
+        <p class="card-text">{{ course.description }}</p>
+        <div class="row ml-1 mr-1 p-0">
+          {% if course.semester %}
+            <span class="badge badge-light mr-1">{{ course.semester }}</span>
+          {% endif %}
+          {% if course.lang %}
+            <span class="badge badge-light">{{ course.lang }}</span>
+          {% endif %}
+        </div>
+      </div>
+      <div class="card-footer">
+        <span class="small">Materi pembelajaran →</span>
+      </div>
+    </div>
+  </a>
+</div>

@@ -148,6 +148,9 @@ newsletter:
 collections:
   books:
     output: true
+  courses:
+    output: true
+    permalink: /teaching/:name/
   news:
     defaults:
       layout: post

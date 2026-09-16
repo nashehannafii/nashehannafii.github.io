@@ -7,22 +7,16 @@ nav: true
 nav_order: 3
 ---
 
-### Universitas Darussalam Gontor
+<!-- pages/teaching.md -->
+<div class="teaching">
+  <h3>Universitas Darussalam Gontor</h3>
+  <p>Lecturer — click a course to open its learning materials page.</p>
 
-- **Basics of Programming**  
-  Lecturer, Multiple Semesters
+{% assign sorted_courses = site.courses | sort: "importance" %}
 
-- **Introduction to Informatics**  
-  Lecturer, Multiple Semesters
-
-- **Statistics**  
-  Lecturer, Multiple Semesters
-
-- **Algoritma dan Struktur Data**  
-  Lecturer, Multiple Semesters
-
-- **Metode Numerik**  
-  Lecturer, Multiple Semesters
-
-- **Pemrograman Web Lanjut**  
-  Lecturer, Multiple Semesters
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for course in sorted_courses %}
+      {% include courses.liquid %}
+    {% endfor %}
+  </div>
+</div>
