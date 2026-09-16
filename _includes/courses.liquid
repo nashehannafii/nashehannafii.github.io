@@ -1,52 +1,15 @@
 <div class="col">
-  <a href="{{ course.url | relative_url }}" class="text-decoration-none">
-    {% if course.tags contains 'advance' %}
-      {% assign level_bg = '#ede9fe' %}
-      {% assign level_fg = '#6d28d9' %}
-      {% assign level_label = 'Advance' %}
-      {% assign accent = '#7c3aed' %}
-    {% else %}
-      {% assign level_bg = '#dcfce7' %}
-      {% assign level_fg = '#15803d' %}
-      {% assign level_label = 'Fundamental' %}
-      {% assign accent = '#16a34a' %}
-    {% endif %}
-    <div class="card h-100 hoverable" style="border-top: 4px solid {{ accent }};">
+  <a href="{{ course.url | relative_url }}">
+    <div class="card h-100 hoverable">
       <div class="card-body">
-        <div class="d-flex align-items-center justify-content-between mb-2">
-          <div
-            class="d-flex align-items-center justify-content-center"
-            style="width: 44px; height: 44px; border-radius: 12px; background: {{ level_bg }}; color: {{ level_fg }}; font-size: 1.25rem;"
-          >
-            <i class="fa-solid {{ course.icon | default: 'fa-book-open' }}"></i>
-          </div>
-          <span class="badge" style="background: {{ level_bg }}; color: {{ level_fg }};">{{ level_label }}</span>
+        <div class="mb-2" style="font-size: 1.5rem; color: var(--global-theme-color);">
+          <i class="fa-solid {{ course.icon | default: 'fa-book-open' }}"></i>
         </div>
         <h2 class="card-title">{{ course.title }}</h2>
         <p class="card-text">{{ course.description }}</p>
         <div>
           {% for tag in course.tags %}
-            {% unless tag == 'fundamental' or tag == 'advance' %}
-              {% if tag == 'programming' %}
-                {% assign tbg = '#ffedd5' %}
-                {% assign tfg = '#c2410c' %}
-              {% elsif tag == 'concept' %}
-                {% assign tbg = '#ccfbf1' %}
-                {% assign tfg = '#0f766e' %}
-              {% elsif tag == 'math' %}
-                {% assign tbg = '#fce7f3' %}
-                {% assign tfg = '#be185d' %}
-              {% else %}
-                {% assign tbg = '#f1f5f9' %}
-                {% assign tfg = '#475569' %}
-              {% endif %}
-              <span
-                class="badge text-uppercase mr-1 mb-1"
-                style="background: {{ tbg }}; color: {{ tfg }}; font-size: 0.65rem; letter-spacing: 0.05em;"
-              >
-                {{ tag }}
-              </span>
-            {% endunless %}
+            <span class="badge badge-light text-uppercase mr-1 mb-1" style="font-size: 0.65rem; letter-spacing: 0.04em;">{{ tag }}</span>
           {% endfor %}
         </div>
       </div>

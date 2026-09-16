@@ -11,11 +11,6 @@ nav_order: 3
 <div class="teaching">
   <h3>Universitas Darussalam Gontor</h3>
   <p>Lecturer — click a course to open its learning materials page.</p>
-  <p class="mb-3">
-    <span class="badge mr-1" style="background: #ffedd5; color: #c2410c;">PROGRAMMING</span>
-    <span class="badge mr-1" style="background: #ccfbf1; color: #0f766e;">CONCEPT</span>
-    <span class="badge" style="background: #fce7f3; color: #be185d;">MATH</span>
-  </p>
 
 {% assign sorted_courses = site.courses | sort: "importance" %}
 
